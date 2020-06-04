@@ -1,6 +1,6 @@
 main: Notebook_With_Custom_Name.ipynb
 description: "Import test"
 email: eoin@kyso.io
-preview: images/image.png
+preview: images/preview.png
 title: "Testing import"
 hideRoot: true
